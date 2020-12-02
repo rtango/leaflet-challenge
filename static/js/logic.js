@@ -2,7 +2,7 @@ var graymap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?
   attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
   maxZoom: 18,
   id: "mapbox.streets",
-  accessToken: "pk.eyJ1IjoiY2hpYW15YzA5ODciLCJhIjoiY2swdzUxb3I2MGRiMzNpbnliN293OXBteiJ9.at8rk5Trv5oNH1dD2E9EAw"
+  accessToken: "pk.eyJ1IjoicnRhbmdvIiwiYSI6ImNraTZvZXY4ODA1bWsyd210Y282NGQ4d3kifQ.UgI7pz1VH0DLZkSng84BCQ"
 });
 // We create the map object with options.
 var map = L.map("map_earth", {
